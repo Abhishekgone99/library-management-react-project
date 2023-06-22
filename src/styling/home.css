@@ -1,0 +1,77 @@
+.body .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+.body .navbar h1 {
+    margin: 0;
+    color: wheat;
+    text-align: left;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body .mainLogo {
+    margin: 0 auto;
+    color: wheat;
+}
+
+.body .mainContent button a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: wheat;
+}
+
+.body .mainContent {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.body .mainContent #admincard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body .mainContent #usercard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body .mainContent #admincard:hover {
+    transform: scale(1.5);
+}
+
+.body .mainContent #usercard:hover {
+    transform: scale(1.5);
+}
+
+.home .about h1 {
+    margin: 50px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px solid black;
+    width: 500px;
+}
+
+.home .about p {
+    margin: 10px 300px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home .gallery img {
+    width: 30%;
+    margin: 1.667%;
+}
+
+.home .gallery img:hover {
+    transform: translatey(-20px);
+}

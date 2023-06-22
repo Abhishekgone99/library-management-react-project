@@ -1,0 +1,82 @@
+.addUserForm {
+    border: 5px double wheat;
+    width: 550px;
+    height: 530px;
+    margin: 50px auto;
+    padding: 30px 30px 0 50px;
+    text-align: justify;
+}
+
+.addUserForm h2 {
+    margin: 10px 0;
+    border-bottom: 2px solid wheat;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+}
+
+.addUserForm input {
+    width: 250px;
+}
+
+.addUserForm label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+    font-size: larger;
+}
+
+.addUserForm #m1,
+#f1,
+#t1 {}
+
+.addUserForm #male,
+#female,
+#terms {
+    width: 50px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.addUserForm #srno {
+    margin-top: 20px;
+    margin-left: 69px;
+    margin-bottom: 10px;
+}
+
+.addUserForm #name {
+    margin-left: 62px;
+    margin-bottom: 10px;
+}
+
+.addUserForm #email {
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
+.addUserForm #birthdate {
+    margin-left: 65px;
+    margin-bottom: 10px;
+}
+
+.addUserForm #aadhar {
+    margin-left: 26px;
+    margin-bottom: 10px;
+}
+
+.addUserForm #institute {
+    margin-left: 42px;
+    margin-bottom: 10px;
+}
+
+.addUserForm button {
+    margin: 30px 160px;
+    font-size: 1.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0.5rem;
+    border: none;
+    background-color: chocolate;
+}
+
+.addUserForm button:hover {
+    background-color: orange;
+}

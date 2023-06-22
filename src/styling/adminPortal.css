@@ -1,0 +1,71 @@
+.navbar2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #495057;
+}
+
+.navbar2 .logo h1 {
+    display: inline-block;
+    color: wheat;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar2 .logout a {
+    text-decoration: none;
+    color: wheat;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 10px;
+}
+
+.adminPortalContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adminPortalContent .addBooks,
+.addUsers,
+.bookList,
+.userList {
+    border: 5px double wheat;
+    padding: 20px;
+    margin: 0 10px;
+}
+
+.adminPortalContent .addBooks:hover,
+.addUsers:hover,
+.bookList:hover,
+.userList:hover {
+    transform: translateY(-30px);
+    background-color: #e8e8e4;
+}
+
+.adminPortalContent h1,
+img {
+    border-bottom: 5px double black;
+    color: wheat;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.adminPortalContent button {
+    width: 95px;
+
+    font-size: 1.6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 1rem;
+    border: none;
+    background-color: chocolate;
+}
+
+.adminPortalContent button a {
+    text-decoration: none;
+    color: black;
+}
+
+.adminPortalContent button:hover {
+    background-color: orange;
+}

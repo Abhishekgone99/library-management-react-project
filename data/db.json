@@ -1,0 +1,174 @@
+{
+  "addbooks": [
+    {
+      "id": 1,
+      "bookseries": 1,
+      "booktitle": "Atomic Habits",
+      "author": "James Clear",
+      "publisher": "Penguin Random House",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51-uspgqWIL._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "bookseries": "2",
+      "booktitle": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publisher": "Harper Collins Publishers",
+      "poster": "https://th.bing.com/th/id/R.5f1591f5f7380d93bd78c9d56a6fd752?rik=E58zAsQhA6Dvgw&riu=http%3a%2f%2fwww.buyoye.pk%2fwp-content%2fuploads%2f2017%2f04%2fThe-Alchemist-by-Paulo-Coelho.jpg&ehk=bss%2bVR4z1bvvCatje5uvi%2fjhUeeA7UzSov6%2fmd1oO9Q%3d&risl=&pid=ImgRaw&r=0",
+      "id": 2
+    },
+    {
+      "bookseries": "3",
+      "booktitle": "Message in a Bottle",
+      "author": "Sidney Sheldon",
+      "publisher": "Harper Collins Publishers",
+      "poster": "https://th.bing.com/th/id/OIP.nSKufoQVqjOqQoAWe46jOAHaKj?pid=ImgDet&rs=1",
+      "id": 3
+    },
+    {
+      "bookseries": "4",
+      "booktitle": "Harry Potter",
+      "author": "J.K. Rowling",
+      "publisher": "Shekhar Publications",
+      "poster": "https://th.bing.com/th/id/OIP.Gzxm8bLSYmUn4TAe1zXEgAHaKf?pid=ImgDet&rs=1",
+      "id": 4
+    },
+    {
+      "bookseries": "5",
+      "booktitle": "Dare To Fail",
+      "author": "Billi P.S. Lim",
+      "publisher": "New  York Times",
+      "poster": "https://th.bing.com/th/id/R.734f18101a00af1b9c5ca2fbd096378f?rik=bYwDsUWi%2fSbQgg&riu=http%3a%2f%2fimages.gr-assets.com%2fbooks%2f1490669332l%2f1611097.jpg&ehk=EMWJwUjw23rONE5SscJghfL0enpxERVMuR0ehM0rXMQ%3d&risl=&pid=ImgRaw&r=0",
+      "id": 5
+    },
+    {
+      "bookseries": "6",
+      "booktitle": "The Immortals of Meluha",
+      "author": "Amish",
+      "publisher": "arihant publisher",
+      "poster": "https://i.ebayimg.com/images/g/K-YAAOSwXZBepFhj/s-l640.jpg",
+      "id": 6
+    },
+    {
+      "bookseries": "7",
+      "booktitle": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "publisher": "penguin random house",
+      "poster": "https://th.bing.com/th/id/R.f4da0c22f65690668e12a93b1cf4761c?rik=o4tO%2fiPJTz9LAQ&riu=http%3a%2f%2fdtlon6z3v1kfl.cloudfront.net%2fwp-content%2fuploads%2f2017%2f08%2f30064538%2f71Sx9g3a-xL-671x1024.jpg&ehk=ZfnSppaWEI%2bxOmnogL70C1ZxSMmVASKZVxp6pZklQdg%3d&risl=&pid=ImgRaw&r=0",
+      "id": 7
+    },
+    {
+      "bookseries": "8",
+      "booktitle": "The Mindset",
+      "author": "Dr Carol S. Dweck",
+      "publisher": "Robinson",
+      "poster": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/large/9781/7803/9781780332000.jpg",
+      "id": 8
+    },
+    {
+      "bookseries": "8",
+      "booktitle": "How to win friends and influence people",
+      "author": "Dale Carnegie",
+      "publisher": "penguin random house",
+      "poster": "https://d3fa68hw0m2vcc.cloudfront.net/f92/172976980.jpeg",
+      "id": 9
+    }
+  ],
+  "userslist": [
+    {
+      "id": 1,
+      "SrNo": "1.",
+      "name": "Alan",
+      "email": "alan99@gmail.com",
+      "birthdate": "11/11/2011",
+      "aadhar": "111122223333",
+      "institute": "Timbaland",
+      "gender": "male"
+    },
+    {
+      "SrNo": "2",
+      "name": "Sia",
+      "email": "sia22@gmail.com",
+      "birthdate": "2020-10-10",
+      "aadhar": "1222235566",
+      "institute": "UCA",
+      "gender": "",
+      "id": 2
+    },
+    {
+      "SrNo": "3",
+      "name": "Shekhar",
+      "email": "skeh99@gmail.com",
+      "birthdate": "2012-12-21",
+      "aadhar": "136545461222",
+      "institute": "vit",
+      "gender": "",
+      "id": 3
+    },
+    {
+      "SrNo": "4",
+      "name": "Nagaraj",
+      "email": "naga99@gmail",
+      "birthdate": "1996-05-22",
+      "aadhar": "16546431313",
+      "institute": "bit",
+      "gender": "",
+      "id": 4
+    },
+    {
+      "SrNo": "5",
+      "name": "priya singh ",
+      "email": "piasingh@gmail.com",
+      "birthdate": "1994-01-11",
+      "aadhar": "56949416431646",
+      "institute": "pandit deendayal institute",
+      "gender": "",
+      "id": 5
+    }
+  ],
+  "favourites": [
+    {
+      "bookseries": 1,
+      "booktitle": "Atomic Habits",
+      "author": "James Clear",
+      "publisher": "Penguin Random House",
+      "id": 1
+    },
+    {
+      "bookseries": "2",
+      "booktitle": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publisher": "Harper Collins Publishers",
+      "id": 2
+    },
+    {
+      "bookseries": "4",
+      "booktitle": "Harry Potter",
+      "author": "J.K. Rowling",
+      "publisher": "Shekhar Publications",
+      "id": 3
+    },
+    {
+      "bookseries": "5",
+      "booktitle": "Dare To Fail",
+      "author": "Billi P.S. Lim",
+      "publisher": "New  York Times",
+      "id": 4
+    },
+    {
+      "bookseries": "8",
+      "booktitle": "How to win friends and influence people",
+      "author": "Dale Carnegie",
+      "publisher": "penguin random house",
+      "poster": "https://d3fa68hw0m2vcc.cloudfront.net/f92/172976980.jpeg",
+      "id": 5
+    },
+    {
+      "bookseries": "8",
+      "booktitle": "How to win friends and influence people",
+      "author": "Dale Carnegie",
+      "publisher": "penguin random house",
+      "poster": "https://d3fa68hw0m2vcc.cloudfront.net/f92/172976980.jpeg",
+      "id": 6
+    }
+  ]
+}

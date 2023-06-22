@@ -1,0 +1,28 @@
+.collections {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+    width: 800px;
+    text-align: left;
+    line-height: 15px;
+    padding: 5px;
+    margin: 20px auto;
+    background-color: #6c757d;
+    font-size: 20px;
+    box-shadow: 0 25px 25px -25.4px black;
+}
+
+.collections .info button {
+    width: 5.2rem;
+    height: 1.6rem;
+    border-radius: 0.6rem;
+    background-color: chocolate;
+    border: none;
+    padding-bottom: 5px;
+    margin-top: 50px;
+}
+
+.collections .info button:hover {
+    background-color: orange;
+}
